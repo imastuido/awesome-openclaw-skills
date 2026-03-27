@@ -94,6 +94,10 @@
 - [image-hosting](https://clawskills.sh/skills/rahulgi-image-hosting) - Upload images to img402.dev and get a public URL.
 - [image-magik-resize](https://clawskills.sh/skills/pr1vateer-image-magik-resize) - Resize images using ImageMagick (CLI)
 - [ima-all-ai](https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-all-ai/SKILL.md) - IMA API for image, video, and music generation.
+- [ima-image-ai](https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-image-ai/SKILL.md) - Generate posters, thumbnails, and product visuals from prompts.
+- [ima-tts-ai](https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-tts-ai/SKILL.md) - Convert text into natural voiceovers for videos and explainers.
+- [ima-video-ai](https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-video-ai/SKILL.md) - Generate short videos from prompts, ideas, or storyboards.
+- [ima-voice-ai](https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-voice-ai/SKILL.md) - Generate voiceovers and narration for videos, ads, and social content.
 - [immich-api](https://clawskills.sh/skills/ninjazan420-immich-api) - Immich Photo Management API Bridge.
 - [immortal](https://clawskills.sh/skills/majestyatenkhu-immortal) - Empowers AI agents with crypto resource vitality assessment.
 - [instagram-photo-text-overlay](https://clawskills.sh/skills/psyduckler-instagram-photo-text-overlay) - Overlay text on photos for Instagram posts.
